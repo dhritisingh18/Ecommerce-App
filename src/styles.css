@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    font-family: sans-serif;
+    scrollbar-color: orange;
+    background-color:  black;
+    scrollbar-width: none; /* Hides the scrollbar */
+    -ms-overflow-style: none; 
+}
+    /* scroll-margin: 0%;
+    scroll-margin-right: 0%; */
+    /* rgba(137, 43, 226, 0.193) */
+    
+
+.container{
+    margin-left: 1%;
+    width: 100%;
+}
