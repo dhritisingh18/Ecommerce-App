@@ -61,16 +61,3 @@ The backend is powered by **C# .NET**, which handles the business logic, API end
 
 ## Conclusion
 This project showcases the combination of **Angular’s dynamic frontend capabilities** with **C# .NET’s powerful backend services**, creating a robust, scalable, and user-friendly eCommerce platform. It has deepened my understanding of full-stack development, helping me build a platform that ensures a seamless experience for both users and sellers.
-
-## Getting Started
-
-### Prerequisites
-- Node.js
-- Angular CLI
-- .NET SDK
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
